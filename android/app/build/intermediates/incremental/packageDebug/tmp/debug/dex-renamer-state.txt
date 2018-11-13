@@ -1,0 +1,4 @@
+#Mon Nov 12 19:14:56 IST 2018
+base.0=/home/nexususer/Desktop/Apps/Study/React-Native/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
